@@ -1,16 +1,20 @@
-## Hi there 👋
+السلام على من اتبع الهدى! 👋  
+# اسمك بالعربية | Your Name in English  
+| … | مسلم / Muslim | … |  
+---  
 
-<!--
-**Zeiad-Web/Zeiad-Web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ من أنا  
+أنا … (معلومات عنك: مبرمج، مهتم بـ …، من …)  
 
-Here are some ideas to get you started:
+## 🔗 روابط مهمة  
+- [موقعي الشخصي](https://…)  
+- [مشاريعي على GitHub](https://github.com/YourUsername)  
+- [حساب تويتر / لينكدإن / …](https://…)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 المهارات  
+- لغة / إطار  
+- لغة / إطار  
+- …  
+
+## 📈 إحصائيات GitHub  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=default)  
