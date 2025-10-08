@@ -27,7 +27,7 @@ My goal is to contribute to projects that benefit the community while steadily e
 - ✉️ [Email](mailto:zeiadalriqi@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ziadweb-alariqi-91b431376)
 - 🌐 [Facebook](https://www.facebook.com/zyad.bdh.591581)
-- 💬 [WhatsApp](https://wa.me/+967775932431)
+- 💬 [WhatsApp](https://wa.me/+967775932431)   <br>  <br>   <br>
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-black.svg?logo=github&logoColor=white)](https://github.com/Zakarialabib)
