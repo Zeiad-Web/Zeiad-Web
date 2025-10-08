@@ -12,7 +12,7 @@ I thrive on challenges in analyzing issues and creating programming solutions, a
 My goal is to contribute to projects that benefit the community while steadily elevating my professional level.
 
 
-💻 Technical skills::
+💻 Technical skills:
 -  Front-End : HTML، CSS، JavaScript، React، Vue.js
 -  Back-End : Laravel، Python، Django
 -  Databases: MongoDB، MySQL
