@@ -1,9 +1,17 @@
-## 💫 عني  
-👋 مرحبًا! أنا **زياد العريقي**، مطوّر ويب **Full-Stack Developer** من اليمن.  
-أحب البرمجة وحل المشكلات التقنية، وأسعى دائمًا لتعلّم تقنيات جديدة وتطوير مهاراتي.  
-أحب المساهمة في المشاريع المفتوحة المصدر وتعلّم تقنيات جديدة.  
+# 💫 عني  
+👋 مرحبًا! أنا زياد العريقي، مطوّر ويب Full-Stack Developer من اليمن.  
+أحب البرمجة وحل المشكلات التقنية، وأسعى دائمًا لتعلم تقنيات جديدة وتطوير مهاراتي.  
+أحب المساهمة في المشاريع المفتوحة المصدر وتعلم تقنيات جديدة.  
 أستمتع بالتحديات في تحليل المشكلات وإيجاد حلول برمجية، وأسعى لتطوير قدراتي باستمرار.  
 هدفي أن أساهم في مشاريع تُفيد المجتمع، وأرتقي بمستواي المهني باستمرار.  
+
+Hello! I’m Ziad Al-Ariki, a Full-Stack Web Developer from Yemen.  
+I love coding and tackling technical problems, always eager to learn new technologies and enhance my skills.  
+I enjoy contributing to open-source projects and exploring new tools.  
+I thrive on challenges in analyzing issues and creating programming solutions, and I continuously aim to advance my capabilities.  
+My goal is to contribute to projects that benefit the community while steadily elevating my professional level.
+
+
 
 ---
 
@@ -21,7 +29,6 @@
 - 🌐 [Facebook](https://www.facebook.com/zyad.bdh.591581)
 - 💬 [WhatsApp](https://wa.me/+967775932431)
 
-## 🌐 For social networks::
 
 [![GitHub](https://img.shields.io/badge/GitHub-black.svg?logo=github&logoColor=white)](https://github.com/Zakarialabib)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/)
