@@ -19,9 +19,10 @@ My goal is to contribute to projects that benefit the community while steadily e
 -  Other Tools: Git، Docker، REST APIs
 
 📬 Contact Me:
-- [بريدي الإلكتروني](mailto:zeiadalriqi@gmail.com)
-- [حسابي على LinkedIn](https://www.linkedin.com/in/ziadweb-alariqi-91b431376/)
-- [حسابي على Facebook](https://www.facebook.com/zyad.bdh.591581)
+
+                                                                                                                                                             [بريدي الإلكتروني](mailto:zeiadalriqi@gmail.com)
+                                                                                                                                 [حسابي على LinkedIn](https://www.linkedin.com/in/ziadweb-alariqi-91b431376)
+                                                                                                                                             [حسابي على Facebook] (https://www.facebook.com/zyad.bdh.591581)
 
 ## 🌐 For social networks::
 
