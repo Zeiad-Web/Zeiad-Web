@@ -12,9 +12,9 @@ My goal is to contribute to projects that benefit the community while steadily e
 ---
 
 💻 **Technical skills:**
-- 🖥️ Front-End : HTML، CSS، JavaScript، React، Vue.js  
-- ⚙️ Back-End : Laravel، Python، Django  
-- 🗃️ Databases: MongoDB، MySQL  
+- 🖥️ Front-End : HTML، CSS، JavaScript، Vue.js  
+- ⚙️ Back-End : PHP, Laravel, 
+- 🗃️ Databases: MySQL  
 - 🧰 Other Tools: Git، Docker، REST APIs  
 
 ---
